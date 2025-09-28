@@ -13,8 +13,8 @@ I am currently a first year Ph. D. candidate at the College of Software, Nankai 
 
 ## News
 
-- **[2025/09]** Joined **Kuaishou** as an Algorithm Intern, working on root cause analysis for large-scale complex systems.
-- **[2025/07]** Our paper *SlideLoRa* is accepted by **IEEE ICNP 2025** (60/238=25.21%).
+- **[2025/09]** I Joined **Kuaishou** as an Algorithm Intern, working on root cause analysis for large-scale complex systems.
+- **[2025/07]** Our paper *SlideLoRa* was accepted by **IEEE ICNP 2025** (60/238=25.21%).
 
 {% include_relative _includes/publications.md %}
 
