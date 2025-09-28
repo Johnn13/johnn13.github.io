@@ -4,14 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am currently a first year Ph. D. candidate at the College of Software, Nankai University, advised by my insightful supervisor Prof. Yongqian Sun and Prof. Shenglin Zhang. I received Master’s degree in Computer Science from the College of Computer Science and Software at Shenzhen University in 2024. Previously, I received my Bachelor’s degree in Software Engineering from the School of Computer Science at Zhuhai College, Beijing Institute of Technology in 2021.
+I am currently a first year Ph. D. candidate at the College of Software, Nankai University, advised by my insightful supervisors [Prof. Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Prof. Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/).  
+I received my Master’s degree in Computer Science from the College of Computer Science and Software at Shenzhen University in 2024.  
+Previously, I received my Bachelor’s degree in Software Engineering from the School of Computer Science at Zhuhai College, Beijing Institute of Technology in 2021.
 
 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI for Operations:** Failure Detection, Root Cause Analysis, and Failure Prediction  
+- **Wireless Systems and Networking:** LPWAN, LoRa
 
 ## News
 
