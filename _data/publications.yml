@@ -1,6 +1,6 @@
 main:
 
-  - title: SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks
+  - title: "SlideLoRa: Reliable Channel Activity Monitoring across Massive Logical Channels in LoRa Networks"
     authors: <strong>Jiamin Jiang</strong>, Shiming Yu, Hao Wang, Haiyang Li, Yuanqing Zheng, Lu Wang
     conference_short: ICNP
     conference: The 33rd IEEE International Conference on Network Protocols, Seoul, South Korea, <strong>ICNP</strong>, 2025.
