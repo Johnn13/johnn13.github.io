@@ -20,9 +20,12 @@ I am currently a first year Ph. D. candidate at the College of Software, Nankai 
 
 ## Educations
 
-- **[2025/09 – Present]**, College of Software, Nankai University, Ph.D.  
-- **[2021/09 – 2024/06]**, College of Computer Science and Software, Shenzhen University, Master  
-- **[2016/09 – 2021/06]**, College of Computer Science, Zhuhai College, Beijing Institute of Technology, Bachelor
+- **[2025/09 – Present]** College of Software, Nankai University, Ph.D.  
+- **[2021/09 – 2024/06]** College of Computer Science and Software, Shenzhen University, Master  
+- **[2016/09 – 2021/06]** College of Computer Science, Zhuhai College, Beijing Institute of Technology, Bachelor
 
 <!-- Conference Reviewers
 {% include_relative _includes/services.md %} -->
+
+## Honors & Awards
+- Student Travel Grant(ICNP), 2025
