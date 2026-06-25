@@ -216,8 +216,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 4px;
-        width: clamp(110px, 65%, 160px);
-        max-width: min(80%, 160px);
+        width: clamp(165px, 80%, 240px);
+        max-width: min(90%, 240px);
         height: auto;
         padding: 0;
         // border: 1px solid #ddd;
@@ -502,8 +502,8 @@ footer {
 
    .image.avatar img {
         border-radius: 4px;
-        width: clamp(110px, 65%, 160px);
-        max-width: min(80%, 160px);
+        width: clamp(165px, 80%, 240px);
+        max-width: min(90%, 240px);
         height: auto;
         padding: 0;
       }
@@ -560,8 +560,8 @@ footer {
 
   .image.avatar img {
       border-radius: 4px;
-      width: clamp(100px, 55%, 150px);
-      max-width: min(80%, 150px);
+      width: clamp(150px, 70%, 225px);
+      max-width: min(90%, 225px);
       height: auto;
       padding: 0;
   }
