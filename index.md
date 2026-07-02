@@ -8,11 +8,12 @@ I am currently a first year Ph. D. student at the College of Software, Nankai Un
 
 ## Research Interests
 
-- **AI for Operations:** Failure Detection, Root Cause Analysis, and Failure Prediction  
+- **AI for Operations:** Agentic DevOps
 - **Wireless Systems and Networking:** LPWAN, LoRa
 
 ## News
 
+- **[2026/07]** Our paper *KRCA* and *OpsAgent* were accepted by **IEEE/ACM ASE 2026 Industry Track** (72/185=39%).
 - **[2025/09]** I Joined **Kuaishou** as an algorithm intern in the infrastructure department.
 - **[2025/07]** Our paper *SlideLoRa* was accepted by **IEEE ICNP 2025** (60/238=25.21%).
 
