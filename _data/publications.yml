@@ -1,7 +1,7 @@
 main:
 
   - title: "KRCA: An Efficient Root Cause Analysis System in Hyper-Scale Microservice Systems via Agentic AI"
-    authors: <strong>Jiamin Jiang</strong>, Jingfei Feng, Yu Luo, Qingliang Zhang, Yongqian Su, Wenwei Gu, Shenglin Zhang, Tianyu Cui, Yao Wu, Jielong Huang, Nan Qi, Dan Pei
+    authors: <strong>Jiamin Jiang</strong>, Jingfei Feng, Yu Luo, Qingliang Zhang, Yongqian Sun, Wenwei Gu, Shenglin Zhang, Tianyu Cui, Yao Wu, Jielong Huang, Nan Qi, Dan Pei
     conference_short: ASE
     conference: The 41st IEEE/ACM International Conference on Automated Software Engineering(<strong>ASE</strong>), 2026.
     pdf: ./assets/files/ase26-industry-paper61.pdf
