@@ -13,9 +13,9 @@ I am currently a second year Ph. D. student at the College of Software, Nankai U
 
 ## News
 
-- **[2026/07]** Our paper *KRCA* and *OpsAgent* were accepted by **IEEE/ACM ASE 2026 Industry Track** (72/185=39%).
+- **[2026/07]** Our paper *KRCA* and *OpsAgent* were accepted by **IEEE/ACM ASE 2026** (CCF A).
 - **[2025/09]** I Joined **Kuaishou** as an algorithm intern in the infrastructure department.
-- **[2025/07]** Our paper *SlideLoRa* was accepted by **IEEE ICNP 2025** (60/238=25.21%).
+- **[2025/07]** Our paper *SlideLoRa* was accepted by **IEEE ICNP 2025** (CCF B).
 
 {% include_relative _includes/publications.md %}
 
